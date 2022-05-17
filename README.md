@@ -4,6 +4,6 @@ The final class project is to develop a model to detect pulmonary infection (pne
 
 Result:
 
-#Model 1 accuracy, sensitivity, specificity, positive predictive value, and negative predicted value is 88.30%, 87.38%, 89.98%, 85.58%, 90.40% respectively. 
-#Model 2 accuracy, sensitivity, specificity, positive predictive value, and negative predicted value is 92.80%, 92.02%, 93.35%, 91.20%, 94.01% respectively. 
-#Model 3 accuracy, sensitivity, specificity, positive predictive value, and negative predicted value is 89.50%, 89.01%, 89.86%, 86.89%, 86.78% respectively.
+# Model 1 accuracy, sensitivity, specificity, positive predictive value, and negative predicted value is 88.30%, 87.38%, 89.98%, 85.58%, 90.40% respectively. 
+# Model 2 accuracy, sensitivity, specificity, positive predictive value, and negative predicted value is 92.80%, 92.02%, 93.35%, 91.20%, 94.01% respectively. 
+# Model 3 accuracy, sensitivity, specificity, positive predictive value, and negative predicted value is 89.50%, 89.01%, 89.86%, 86.89%, 86.78% respectively.
